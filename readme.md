@@ -10,6 +10,7 @@
 - ioc-container-p6 : 인프런 강의 IoC 컨테이너 6부, 프로파일/프로퍼티 정의 방법
 - ioc-container-p7 : 인프런 강의 IoC 컨테이너 7부, MessageSource 사용법
 - ioc-container-p8 : 인프런 강의 IoC 컨테이너 8부, ApplicationEventPublisher 사용법 (이벤트 발생)
+- ioc-container-p9 : 인프런 강의 IoC 컨테이너 9부, ResourceLoader 사용법 (classpath)
 - multiple-bean-di : 모든 빈을 주입받고 메시지 전송하는 예제
 
 ## 📚 참고
