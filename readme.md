@@ -15,6 +15,7 @@
 - validator : 인프런 강의 Validation, Validator 사용법
 - data-binding : 인프런 강의 Data Binding 사용법
 - spel : 인프런 강의 SpEL 사용법
+- aop : 인프런 강의 AOP, 프록시 패턴 및 어노테이션 기반 AOP 사용법
 - multiple-bean-di : 모든 빈을 주입받고 메시지 전송하는 예제
 
 ## 📚 참고
