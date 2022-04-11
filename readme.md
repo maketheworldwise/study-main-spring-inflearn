@@ -13,6 +13,7 @@
 - ioc-container-p9 : 인프런 강의 IoC 컨테이너 9부, ResourceLoader 사용법 (classpath)
 - resource-abstraction : 인프런 강의 Resource, Resource 사용법
 - validator : 인프런 강의 Validation, Validator 사용법
+- data-binding : 인프런 강의 Data Binding 사용법
 - multiple-bean-di : 모든 빈을 주입받고 메시지 전송하는 예제
 
 ## 📚 참고
